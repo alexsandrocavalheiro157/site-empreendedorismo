@@ -1,1 +1,6 @@
-body{background-color: brown;}
+body{background-color: rgb(235, 133, 133);}
+
+.topo{display: flex;}
+
+
+.alunnos{display: inline-block;}
